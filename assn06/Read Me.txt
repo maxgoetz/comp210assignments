@@ -1,0 +1,1 @@
+Only got 95/100 on assignment 6, AVL trees. Failed the remove - two children test. This code is horribly written and very confusing. If you have questions on it you should come to me and ask.
